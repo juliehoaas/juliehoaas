@@ -1,4 +1,12 @@
-### Hi there 👋
+## Frontend developer and an avid reader.
+
+⚡ Fun fact: I speak some 🇯🇵. 初めまして！
+
+
+👔 [Linkedin][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/juliehoaas/
+
 
 <!--
 **juliehoaas/juliehoaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
