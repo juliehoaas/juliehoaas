@@ -16,5 +16,5 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=juliehoaas&show_icons=true&theme=tokyonight&line_height=27&count_private=true">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=juliehoaas&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&count_private=true" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=juliehoaas&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27&count_private=true" />
 </p>
